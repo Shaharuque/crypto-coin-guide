@@ -1,5 +1,8 @@
 # Live Site Link
 [https://crypto-currency-guide.netlify.app/](https://crypto-currency-guide.netlify.app/)
+
+# Used API
+[COINGECKO](https://www.coingecko.com/en/api/documentation)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
